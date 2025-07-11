@@ -31,7 +31,6 @@ Model Training (e.g., Linear Regression, Decision Trees)
 Model Evaluation using metrics such as RMSE, MAE, R²
 
 📂 Dataset
-(Replace this section if you used a specific dataset like the Kaggle House Prices dataset)
 
 The dataset includes features like:
 
@@ -54,11 +53,11 @@ Clone the repository or download the notebook.
 (Optional — Add a short summary of the best-performing model's results here, e.g., R² score or RMSE)
 Example:
 
-Best model: Random Forest Regressor
+Best model: Linear Regression
 
-R² Score: 0.89
+R² Score: 0.7374
 
-RMSE: $21,000
+MAE (Mean Absolute Error): 66,894 on average , the model's prediction deviate from actual price by 66k
 
 📌 Future Work
 Hyperparameter tuning

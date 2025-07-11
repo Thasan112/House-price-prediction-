@@ -2,9 +2,9 @@
 This project aims to explore and predict house prices using machine learning techniques. It leverages a dataset containing various features that influence housing prices, such as number of rooms, location, and area.
 
 📁 Project Structure
-house-price.ipynb: The main Jupyter notebook containing data exploration, preprocessing, modeling, and evaluation.
+House-price.ipynb: The main Jupyter notebook containing data exploration, preprocessing, modeling, and evaluation.
 
-README.md: Project overview and usage instructions.
+ Project overview and usage instructions.
 
 🔧 Technologies Used
 Python 3.12
